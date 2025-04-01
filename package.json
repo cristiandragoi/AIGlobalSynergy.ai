@@ -1,4 +1,4 @@
-ine{
+{
   "name": "ai-global-synergy-website",
   "version": "1.0.0",
   "description": "A website for AI Global Synergy featuring customizable content blocks, modern UI/UX design, and integration of AI-driven services, affiliate platforms, and e-commerce tools.",
@@ -20,13 +20,13 @@ ine{
   ],
   "author": "Your Name",
   "license": "MIT",
-  "dependencies": {next,latest
+  "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
     "axios": "^0.21.1"
   },
-  "devDependencies": {next,latest
+  "devDependencies": {
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.0",
     "webpack-dev-server": "^3.11.2",
