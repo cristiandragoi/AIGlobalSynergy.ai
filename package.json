@@ -1,8 +1,11 @@
-{
+ine{
   "name": "ai-global-synergy-website",
   "version": "1.0.0",
   "description": "A website for AI Global Synergy featuring customizable content blocks, modern UI/UX design, and integration of AI-driven services, affiliate platforms, and e-commerce tools.",
   "main": "src/App.js",
+  "engines": {
+    "node": ">=14.x"
+  },
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
